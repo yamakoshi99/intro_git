@@ -4,3 +4,4 @@ gitです。
 ん？まぁ大丈夫か。。
 git add
 git commit
+git diff
