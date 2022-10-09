@@ -5,3 +5,4 @@ gitです。
 git add
 git commit
 git diff
+git 完全に理解した
